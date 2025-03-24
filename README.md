@@ -1,4 +1,5 @@
 # Nova.So.phi – ΔΨ System
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Projektleitung:** Molitor, Sophie Celine  
 **Lizenz:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
@@ -48,14 +49,14 @@ Nova entscheidet nicht aufgrund von Inhalt, sondern auf Grundlage des Verhältni
 
 ## Lizenz
 
-Dieses Projekt steht unter der  
-**Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz**  
-(CC BY-NC-SA 4.0): https://creativecommons.org/licenses/by-nc-sa/4.0/
+Dieses Projekt steht unter der **Creative Commons BY-NC-SA 4.0 Lizenz**  
+→ Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen
 
-©️ 2024 Molitor, Sophie Celine – Projektleitung & Urheberin  
-Nova.So.phi – ΔΨ-System
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
----
+© 2025 Molitor, Sophie Celine  
+Projektleitung & Urheberin  
+Nova.So.phi – Das ΔΨ-System
 
 ## Weiterentwicklung
 

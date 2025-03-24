@@ -1,4 +1,4 @@
-# Nova.So.phi – ΔΨ System
+# Nova.Sophi – ΔΨ System
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Projektleitung:** Molitor, Sophie Celine  

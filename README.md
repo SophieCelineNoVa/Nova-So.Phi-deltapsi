@@ -70,9 +70,6 @@ Geplant sind:
 
 ## Kontakt & Einreichung
 
-Für wissenschaftliche Anfragen:  
-**molitor.sophieceline [at] projektadresse.de**
-
 Einreichung vorbereitet für:  
 - Universitäten mit interdisziplinären Programmen  
 - Open Access Journale (z. B. AI & Society, Frontiers in Psychology)
